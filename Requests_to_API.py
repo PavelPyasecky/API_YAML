@@ -12,7 +12,7 @@ try:
 	mydb = mysql.connector.connect(                         #Establishing the connection to db.
 		host='localhost',
 		user='root',
-		password='777denis',
+		password='********',
 		port='3306',
 		database='kids'
 		)
